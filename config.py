@@ -3,10 +3,10 @@ import os
 
 
 # Required Variables Config
-API_ID = int(os.environ.get("API_ID", "27752560"))
-API_HASH = os.environ.get("API_HASH", "")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7728598881:AAF3evUl3YJw9dp4wm58Ad0oZu1CbeWgMMo")
-ADMIN = int(os.environ.get("ADMIN", ""))
+API_ID = int(os.environ.get("API_ID", "18013154"))
+API_HASH = os.environ.get("API_HASH", "93c6f3c43ede0082aceebfff185cf5ff")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8668760056:AAHOi8qW854ValNEeIB1bsLFMlu3_H2LZI8")
+ADMIN = int(os.environ.get("ADMIN", "8530165612"))
 
 
 # Premium 4GB Renaming Client Config
@@ -14,12 +14,12 @@ STRING_SESSION = os.environ.get("STRING_SESSION", "")
 
 
 # Log & Force Channel Config
-FORCE_SUBS = os.environ.get("FORCE_SUBS", "-1002530980008")
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002589776901"))
+FORCE_SUBS = os.environ.get("FORCE_SUBS", "-1004411647916")
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1004411647916"))
 
 
 # Mongo DB Database Config
-DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://andfreefirew:andfreefirew@cluster0.qufbkvn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://siamvai:siamvai@cluster0.1bungtm.mongodb.net/?appName=Cluster0")
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "TechifyBots")
 
 
